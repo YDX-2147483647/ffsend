@@ -104,7 +104,7 @@ colored = "2.0"
 derive_builder = "0.10"
 directories = "4.0"
 failure = "0.1"
-ffsend-api = { version = "0.7.3", default-features = false }
+ffsend-api = { git = "https://github.com/YDX-2147483647/ffsend-api.git", branch = "multi", default-features = false }
 fs2 = "0.4"
 lazy_static = "1.4"
 open = "2"
